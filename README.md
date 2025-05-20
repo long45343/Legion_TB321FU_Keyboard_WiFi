@@ -1,0 +1,2 @@
+# LenovoKeyboardLayoutFix
+把联想拯救者Y700 2025的Action键和Numpad1交换以规避Action弹出桌面抽屉
