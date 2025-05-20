@@ -1,5 +1,7 @@
 # LenovoKeyboardLayoutFix
 
+[English README Here](https://github.com/long45343/LenovoKeyboardLayoutFix/blob/main/README_EN.md)
+
 适用于Y700 2025的串流键盘解决方案
 
 低技术力的解决方案，还请大佬轻喷。
