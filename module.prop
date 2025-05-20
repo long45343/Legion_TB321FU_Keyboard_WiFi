@@ -1,0 +1,6 @@
+id=delete_action
+name=关闭Action键
+version=0.001
+versionCode=1
+author=long45343
+description=尝试禁用ZUXOS的Action键
