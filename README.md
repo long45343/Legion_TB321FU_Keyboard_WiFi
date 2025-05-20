@@ -14,7 +14,7 @@
 
 （仅适配了[阿西西的Moonlight](https://github.com/Axixi2233/moonlight-android)）
 
-Magisk/KSU/Apatch（仅测试了KSU，但应该都可以用）安装模块后打开月光-阿西西的无障碍权限后导入本项目[Release](https://github.com/long45343/LenovoKeyboardLayoutFix/release)内的buttonSwitch.json后即可实现串流效果，但无法使用滚轮锁定键
+Magisk/KSU/Apatch（仅测试了KSU，但应该都可以用）安装模块后打开月光-阿西西的无障碍权限后导入本项目[Release](https://github.com/long45343/LenovoKeyboardLayoutFix/releases)内的buttonSwitch.json后即可实现串流效果，但无法使用滚轮锁定键
 
 # 修改
 
