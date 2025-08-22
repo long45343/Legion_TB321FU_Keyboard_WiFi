@@ -1,4 +1,4 @@
-# LenovoKeyboardLayoutFix
+# LenovoKeyboardLayoutAndWifiFix
 
 [English README Here](https://github.com/long45343/LenovoKeyboardLayoutFix/blob/main/README_EN.md)
 
