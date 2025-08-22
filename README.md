@@ -10,11 +10,13 @@
 
 通过修改/system/usr/keylayout/generic.kl使得滚轮锁定键和Action键交换，从而避免在串流时按到左边Windows键触发。
 
+通过将A14 ROM的无线配置文件转移到A15 ROM上来尝试修复Peer_Vendor_Spec_Action:frame len check error问题（该问题可能导致断流）
+
 # 使用方法
 
 （仅适配了[阿西西的Moonlight](https://github.com/Axixi2233/moonlight-android)）
 
-Magisk/KSU/Apatch（仅测试了KSU，但应该都可以用）安装模块后打开月光-阿西西的无障碍权限后导入本项目[Release](https://github.com/long45343/LenovoKeyboardLayoutFix/releases)内的buttonSwitch.json后（导入选项是“导入自定义无障碍配置文件”）即可实现串流效果，但无法使用滚轮锁定键
+Magisk/KSU/Apatch（仅测试了KSU/SukiSU Ultra，但应该都可以用）安装模块后打开月光-阿西西的无障碍权限后导入本项目[Release](https://github.com/long45343/LenovoKeyboardLayoutFix/releases)内的buttonSwitch.json后（导入选项是“导入自定义无障碍配置文件”）即可实现串流效果，但无法使用滚轮锁定键
 
 # 修改
 
