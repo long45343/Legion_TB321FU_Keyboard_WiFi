@@ -148,7 +148,7 @@ key 125   SCROLL_LOCK
 key 126   META_RIGHT
 key 127   MENU
 key 128   MEDIA_STOP
-#key 129   "KEY_AGAIN"
+#key 129   META_LEFT
 # key 130 "KEY_PROPS"
 # key 131 "KEY_UNDO"
 # key 132 "KEY_FRONT"
