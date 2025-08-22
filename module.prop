@@ -1,6 +1,6 @@
-id=delete_action
-name=关闭Action键
-version=0.001
-versionCode=1
+id=Delete_action_Fix
+name=关闭Action键并尝试修复Wifi
+version=0.002
+versionCode=2
 author=long45343
-description=尝试禁用ZUXOS的Action键
+description=把联想拯救者Y700 2025的Action键和Scroll Lock交换以规避Action弹出桌面抽屉,并尝试修复安卓15连接部分联发科闭源驱动（MTWIFI）路由器的时候出现Peer_Vendor_Spec_Action:frame len check error的问题
