@@ -10,6 +10,8 @@ Low-tech solutions, code is very noob:).
 
 Edit /system/usr/keylayout/generic.kl to swap scroll_lock key and Action key to avoid trigger Action Key when using stearming software.
 
+Try to fix Peer_Vendor_Spec_Action:frame len check error on mediatek MTWIFI platform through adapt A14 ROM's wireless Config to A15 ROM(this error can make network cutoff）.
+
 # Usage
 
 （Juse adapt[Axixi2233's Moonlight](https://github.com/Axixi2233/moonlight-android)）
